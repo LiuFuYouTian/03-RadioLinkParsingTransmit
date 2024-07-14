@@ -1,0 +1,16 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.adapterTargetName": "esp32",
+  "idf.openOcdConfigs": [
+    "interface/ftdi/esp32_devkitj_v1.cfg",
+    "target/esp32.cfg"
+  ],
+  "idf.portWin": "COM13",
+  "files.associations": {
+    "string.h": "c",
+    "esp_sbus_parsing.h": "c",
+    "esp_mac.h": "c",
+    "nvs_flash.h": "c",
+    "algorithm": "c"
+  }
+}
